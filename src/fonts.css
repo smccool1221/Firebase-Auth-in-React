@@ -1,0 +1,7 @@
+/* font.css */
+@import url('https://fonts.googleapis.com/css2?family=Familjen+Grotesk:wght@500&family=Indie+Flower&family=Lobster&family=Martian+Mono:wght@100&family=Outfit:wght@100&family=Pangolin&family=Patrick+Hand&family=Roboto:wght@100;300;400&display=swap');
+
+/* Apply the Pangolin font family */
+.font-Pangolin {
+  font-family: 'Pangolin', sans-serif;
+}
